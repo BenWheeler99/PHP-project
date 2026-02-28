@@ -1,0 +1,15 @@
+{
+    "name": "benwheeler/phpproject",
+    "autoload": {
+        "psr-4": {
+            "Benwheeler\\Phpproject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin Wheeler",
+            "email": "benjaminwbusiness@gmail.com"
+        }
+    ],
+    "require": {}
+}
